@@ -1,6 +1,4 @@
-Name - Abhi Solanki
-
-Email - abhisolanki20@gnu.ac.in
+Languages: Flutter, Firebase, Dart
 
 IDZ Registration Assignment-1
 Developed in Android Studio
